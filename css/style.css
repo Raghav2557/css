@@ -1,0 +1,43 @@
+h1{
+    color: pink;
+    font-size: 50px;
+}
+
+div{
+    background-color: red;
+    width: 300px;
+    padding: 50px;
+    /* margin-top: 50px;
+    margin-left: 200px; */
+    /*    */
+}
+
+div h1{
+    color: black;
+}
+body{
+    background-color: blue;
+}
+.rag{
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    position: relative;
+}
+
+.hav{
+    width: 20px;
+    height: 20px;
+    background-color:pink;
+    position: absolute;
+    top: 0px;
+    right:0px;
+
+}
+.rahul{
+    width: 80px;
+    height: 80px;
+    background-color: green;
+    position: absolute;
+    top: 400px;
+}
